@@ -368,3 +368,6 @@ terraform.tfstate.*
 .terraform.tfstate.lock.info
 .terraform
 .tfvar
+
+
+.Ds_Store
